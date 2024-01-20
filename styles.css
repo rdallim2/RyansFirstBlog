@@ -1,0 +1,13 @@
+/* styles.css */
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    /* You can add additional styles for the heading if needed */
+}
